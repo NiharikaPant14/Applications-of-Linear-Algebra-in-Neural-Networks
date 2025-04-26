@@ -36,7 +36,7 @@ This project demystifies neural networks by **visualizing the linear algebra** h
 
 | Folder | Purpose |
 |:---|:---|
-| `tldr/` | 📚 Summaries and key takeaways of important research papers. *(work-in-progress)* |
+| `TLDRs/` | 📚 Summaries and key takeaways of important research papers. *(work-in-progress)* |
 | `NN_functions/` | 🧩 Custom-built basic linear algebra operations (dot product, matrix multiplication, etc.). |
 | `src/` | 🚀 Main project code: customizable neural network + math visualizer. |
 | `resources/` | 📂 Static assets: datasets (CSV, JSON), images, helpful files. |
